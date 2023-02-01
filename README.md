@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+Fetched user data and displayed data with required ui 
+created user detailed page
+created pagination page
+created hide and show feature
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+https://user-images.githubusercontent.com/43042413/216166229-5ccd2ea9-0b7e-4fce-aee3-a1f79abbd233.mp4
+
+ Scripts
 
 In the project directory, you can run:
 
