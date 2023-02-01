@@ -1,0 +1,12 @@
+.main{
+    width: 10%;
+   margin: auto;
+   
+}
+.button{
+    background-color: orange;
+    border: none;
+     margin: 1px;
+    padding: 8px;
+    cursor: pointer;
+}

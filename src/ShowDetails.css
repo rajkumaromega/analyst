@@ -1,0 +1,12 @@
+.description{
+    display: flex;
+    justify-content: space-around;
+    width: 95%;
+    margin: auto;
+    border: 1px solid rgb(173, 170, 170);
+    border-radius: 15px;
+    margin-bottom: 10px;
+    padding: 10px;
+    
+   
+}
